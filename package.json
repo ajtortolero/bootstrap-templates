@@ -1,0 +1,37 @@
+{
+  "name": "bootstrap-templeate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "node_modules/.bin/gulp watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@progress/kendo-theme-default": "^4.31.0",
+    "@progress/kendo-ui": "^2020.3.1118",
+    "bootstrap": "^4.4.1",
+    "elektron": "^0.5.3",
+    "font-awesome": "^4.7.0",
+    "gulp-uglify": "^3.0.2",
+    "jquery": "^3.5.1",
+    "kendo-ui-core": "^2020.3.1118",
+    "metismenu": "^3.0.6",
+    "onoffcanvas": "^2.2.3",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-header": "^2.0.9",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.0.2",
+    "merge-stream": "^2.0.0"
+  }
+}
